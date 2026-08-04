@@ -56,6 +56,7 @@
 -  Grand Prix O Boticário — Champion
 -  DSPI SENAI — State Champion
 -  WorldSkills — Building Electrical Installation Competitor
+![WorldSkills](https://img.shields.io/badge/WorldSkills-Competitor-blue)
 -  TOEIC — Test of English for International Communication
 -  SENAI Industrial Automation Technician
 
